@@ -51,17 +51,14 @@ pip install -r requirements.txt
 
 ## Results
 
-* High accuracy on validation & test sets
+* Achieved ~98% test accuracy 
+
 * Robust generalization due to transfer learning and augmentation
 
 Example training accuracy curve:
 
 ![Accuracy Curve](images/accuracy.png)
 
-Example prediction:
 
-```
-Predicted class: Dog
-```
-
-Developed with **Google Colab** and **TensorFlow**
+* Developed with **Google Colab** and **TensorFlow**
+* Easily extendable to other binary classification problems

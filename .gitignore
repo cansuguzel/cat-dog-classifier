@@ -1,0 +1,7 @@
+# ignore data and models
+data/
+models/
+*.keras
+*.ckpt
+.ipynb_checkpoints/
+__pycache__/
